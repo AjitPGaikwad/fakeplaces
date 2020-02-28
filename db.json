@@ -1,0 +1,991 @@
+{
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 17.4292351,
+          "lng": 78.3251354
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.4306677802915,
+            "lng": 78.3265287802915
+          },
+          "southwest": {
+            "lat": 17.42796981970849,
+            "lng": 78.32383081970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+      "id": "d6d6aa34bdbe7f4cbb441c5f4b361f121c89b34b",
+      "name": "State Bank Of India ATM",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115403151344285452564\">akash kumar</a>"
+          ],
+          "photo_reference": "CmRaAAAASQmcZtJo--JTCR00oJtEyXNm5Xt0ENa2ajuqLWHa7ZaxZRTwWMN8uHs0pz8lhh_62LnqsLual96yiziPm4rq-gHQ9HorWNL_xP8jUNMZL4aj48-qpz0OJ4ddo7gs7wr1EhDCZKNqob62vjGWaXdgI536GhRmpjZ9-GNwcYU-Pdm5_u0ZAhHdHw",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJjfbEcWWTyzsRclX2py2jsOY",
+      "plus_code": {
+        "compound_code": "C8HG+M3 Hyderabad, Telangana, India",
+        "global_code": "7J9WC8HG+M3"
+      },
+      "rating": 3.1,
+      "reference": "ChIJjfbEcWWTyzsRclX2py2jsOY",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 14,
+      "vicinity": "Q City Road, Gowlidoddy, Hyderabad"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 17.41870429999999,
+          "lng": 78.3478966
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.4199775802915,
+            "lng": 78.34932383029151
+          },
+          "southwest": {
+            "lat": 17.41727961970849,
+            "lng": 78.3466258697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+      "id": "5e752bea183f477d3b02c8040b7dc94c63ccb743",
+      "name": "CITI Bank ATM",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJSWc8ZniUyzsRPE90aBl9Ad4",
+      "plus_code": {
+        "compound_code": "C89X+F5 Hyderabad, Telangana, India",
+        "global_code": "7J9WC89X+F5"
+      },
+      "rating": 4.1,
+      "reference": "ChIJSWc8ZniUyzsRPE90aBl9Ad4",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 9,
+      "vicinity": "Waverock, APIIC IT / ITES SEZ, Nanakramguda, Hyderabad"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 17.4210631,
+          "lng": 78.3346071
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.4225031802915,
+            "lng": 78.33600268029149
+          },
+          "southwest": {
+            "lat": 17.4198052197085,
+            "lng": 78.33330471970848
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+      "id": "049538aa769f6383986c83daf686cf764a103a6c",
+      "name": "Andhra Bank ATM",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108631128596247004772\">shabarish atyam</a>"
+          ],
+          "photo_reference": "CmRaAAAAV45-CGcUIDziONMLU3JSWJfFPrUUADGcpveLo762fX-7PF9w7pb9kBYJJ5jDmd5AWdwDldTOX1BbYC-0TenURNA0dGg5kqMpMapdU8V9bkHBz8hBhajJqYCw9Qau-Ye4EhAa3nvwIBOd6ce5gKbvjoSvGhR4MJ9iCyvgdiNJc5Sf9Ry-G4V6nA",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJSzrSFX6TyzsRCA9f-Z-vipc",
+      "plus_code": {
+        "compound_code": "C8CM+CR Hyderabad, Telangana, India",
+        "global_code": "7J9WC8CM+CR"
+      },
+      "rating": 1.8,
+      "reference": "ChIJSzrSFX6TyzsRCA9f-Z-vipc",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "Financial District, Nanakramguda, Hyderabad"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 17.423665,
+          "lng": 78.33555
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.4250627302915,
+            "lng": 78.33681133029151
+          },
+          "southwest": {
+            "lat": 17.42236476970849,
+            "lng": 78.33411336970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+      "id": "3aaf68c7c8ec3279ab4d05abac20e55ff8d56388",
+      "name": "ICICI BANK ATM",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116445942221982504203\">Siva Prasad</a>"
+          ],
+          "photo_reference": "CmRZAAAAmmywdVc7cQcdGtVFaQZjs_GbwBBg9gH5NIkk-zmC_iGtq9onxWOZNf-7fTMo6WQlZf0tngu1jZjnI6DQGovKUbY03MpXQ8ooxKpSarV8PXFD-NcgoU9bpCVixYklNgKQEhB8FNcUrxCo-1GHACVLACd6GhTzBe_48pfbKToMeuRLJcXAH7_iVQ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ-Sdu3n6TyzsR5hVedtfjpkg",
+      "plus_code": {
+        "compound_code": "C8FP+F6 Gachibowli, Hyderabad, Telangana, India",
+        "global_code": "7J9WC8FP+F6"
+      },
+      "rating": 4,
+      "reference": "ChIJ-Sdu3n6TyzsR5hVedtfjpkg",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "bank",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "Towers IV, Ground Floor, Plot NO. 12-17, Nanakramguda, Gachibowli, Hyderabad"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 17.423302,
+          "lng": 78.33659899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.4247012802915,
+            "lng": 78.3379812302915
+          },
+          "southwest": {
+            "lat": 17.42200331970849,
+            "lng": 78.3352832697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+      "id": "b5f26af1448c52c9720d7736679df799ad927d44",
+      "name": "ICICI BANK ATM",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1932,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112846965782854101174\">Baba Sir</a>"
+          ],
+          "photo_reference": "CmRaAAAA7jn2g2sYHwCQtIAQmpD3q5jwjKix-qZyBpiRyrAiz9Bi9ZqFMIvF1ORcLU3pXOyo21W8LyHd6GZBjf7DymHHVuHmc5PziQe3gkuaJpMm0DvHhe2rr0olUuPyRAkDBU7KEhCwYQXVrgv2ZP2u1dv4eGJFGhQdngaLbBc6BMCcE-QngTT3ZN8sug",
+          "width": 2576
+        }
+      ],
+      "place_id": "ChIJq8ZbF3-TyzsRpILkiSY5Y88",
+      "plus_code": {
+        "compound_code": "C8FP+8J Gachibowli, Hyderabad, Telangana, India",
+        "global_code": "7J9WC8FP+8J"
+      },
+      "rating": 4.4,
+      "reference": "ChIJq8ZbF3-TyzsRpILkiSY5Y88",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "bank",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 18,
+      "vicinity": "Towers II, Ground Floor, Plot NO. 12-17, Nanakramguda, Gachibowli, Hyderabad"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 17.4192,
+          "lng": 78.3374
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.4205305302915,
+            "lng": 78.3387758802915
+          },
+          "southwest": {
+            "lat": 17.4178325697085,
+            "lng": 78.33607791970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+      "id": "2dc93441aba61599db549dee622ad5b037eddaed",
+      "name": "ICICI BANK ATM",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107444055410868458228\">ICICI BANK ATM</a>"
+          ],
+          "photo_reference": "CmRaAAAAWe37fSDMWJeqbMgsy1Vbav-jpaILCUYPILkPBIrN2gU2TUhtUMoLMjC5x-feHea7uQRfLW7T45UK2p41lwRnQo-3d1dVU8R-1zuXjtyB5JDlH2WtRb5syggsMaAcf_u2EhDq9upaMnn6LnF4kq6FxRFEGhSvn1qgLXDqZaR5hhKq_Y6zA-G9RQ",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJYUDHH4CUyzsR8tdlVTqm-HY",
+      "plus_code": {
+        "compound_code": "C89P+MX Hyderabad, Telangana, India",
+        "global_code": "7J9WC89P+MX"
+      },
+      "rating": 3.5,
+      "reference": "ChIJYUDHH4CUyzsR8tdlVTqm-HY",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "bank",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 12,
+      "vicinity": "Infotech Enterprises Limited, Plot No.2, It Park, Nanakramguda, Manikonda, Gachibowli, Hyderabad"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 17.42181,
+          "lng": 78.33841799999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.42305883029151,
+            "lng": 78.33970248029149
+          },
+          "southwest": {
+            "lat": 17.4203608697085,
+            "lng": 78.33700451970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+      "id": "f664ad11171384c1a2af57ff07cf6c1e422c9bcc",
+      "name": "HDFC Bank ATM",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 300,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106166830218023506824\">HDFC Bank ATM</a>"
+          ],
+          "photo_reference": "CmRaAAAAvtLX6EKGD9xu5WUkRwYtc_hypeTZwDD-ik5ORIrQuY7bLlwuTyXi6iPCIiy6e-tbRXY8fKGE6ZMt_NzyhcmIxv_SnohqtTCYcQoIOAJgwc6swG37oiNTAYjM3ukdMzkSEhCzJdg2jw8qP9qLQSATJddyGhSyGUawRT6_q6N4qk0glD6auKwZiQ",
+          "width": 300
+        }
+      ],
+      "place_id": "ChIJk3e-hn-TyzsR35sUxYtaEvY",
+      "plus_code": {
+        "compound_code": "C8CQ+P9 Hyderabad, Telangana, India",
+        "global_code": "7J9WC8CQ+P9"
+      },
+      "rating": 4.8,
+      "reference": "ChIJk3e-hn-TyzsR35sUxYtaEvY",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "bank",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "Gr Flr, Kapil Towers, Nanakramguda, Gachibowli, Hyderabad"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 17.4219848,
+          "lng": 78.3389897
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.4234984802915,
+            "lng": 78.3400347802915
+          },
+          "southwest": {
+            "lat": 17.4208005197085,
+            "lng": 78.3373368197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+      "id": "051f88241de5d14f8f9715069bc0f20bf5141434",
+      "name": "Andhra Bank ATM",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108998931276148718168\">Prem Khoji</a>"
+          ],
+          "photo_reference": "CmRaAAAAGibp18CBliwzrMb3PeQfX8rxi3qQH9w1oOqOUHwblTwtEbP5meZt36Jg5ouAFjTvf5vB6sa9AaaBDhWfzMzko9LQZJze66GQ3PDAwHb4PZ6j4f52hBcL7sWRYKWFunvZEhCH0z1Su10leUQ6xB2ynTSpGhR-sOhfdcNsFaonPOW5barGbzFerQ",
+          "width": 4208
+        }
+      ],
+      "place_id": "ChIJyRjpK4CTyzsRpD7hxk-4O4s",
+      "plus_code": {
+        "compound_code": "C8CQ+QH Hyderabad, Telangana, India",
+        "global_code": "7J9WC8CQ+QH"
+      },
+      "rating": 4.3,
+      "reference": "ChIJyRjpK4CTyzsRpD7hxk-4O4s",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "115/1, ISB Road, Financial District, Nanakramguda, Hyderabad"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 17.420515,
+          "lng": 78.339308
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.4220046802915,
+            "lng": 78.3407506802915
+          },
+          "southwest": {
+            "lat": 17.4193067197085,
+            "lng": 78.33805271970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+      "id": "3cbdab422f0ef459ce0be02ef4043595d37a3b73",
+      "name": "ICICI BANK ATM",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4640,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109969919881584379133\">prayas</a>"
+          ],
+          "photo_reference": "CmRaAAAAddaC9hxQcU8_psEKK1xbP10aJ2DDONjI00Vge6qm23q_UwvDeRB8Kk5u8uqhmoRoi88jJuCU3i0i2JHfZD055onueChwNCPnbHMPINmO4g_AY3sL57L8bHUctpG0vMLSEhA05IG46z62BIlydYbvguLxGhSyDPN32P3Bkaol9rKTX4ydJZs9LQ",
+          "width": 3480
+        }
+      ],
+      "place_id": "ChIJQwOMGYCTyzsRPuc1HHqN0I0",
+      "plus_code": {
+        "compound_code": "C8CQ+6P Hyderabad, Telangana, India",
+        "global_code": "7J9WC8CQ+6P"
+      },
+      "rating": 4.4,
+      "reference": "ChIJQwOMGYCTyzsRPuc1HHqN0I0",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "bank",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 14,
+      "vicinity": "Survey No-116, Amazon Development Centre India Pvt Ltd, Jayabheri Orange Towers, 117, Road Number 2, Financ, Hyderabad"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 17.429057,
+          "lng": 78.325315
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.4303083302915,
+            "lng": 78.3266800802915
+          },
+          "southwest": {
+            "lat": 17.4276103697085,
+            "lng": 78.32398211970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+      "id": "0d515e30e1e598f43bcccbd09d3f58526ccc489a",
+      "name": "ICICI BANK ATM",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106276167738677075668\">atchyuth lekkala</a>"
+          ],
+          "photo_reference": "CmRaAAAAnsdwr5FGYrhW1mN53dVb-45orSxJHUlUfbX2z5-bMeAwGOXDCX--h1ebaGwM9CBg-EDTuASg1pd4rBHfOpZ04S2J7c5jwV2MEMW72k8tGrHQb1yd8OMw4wzivi_id94jEhD3wZQCisSqErEr81jDaeoXGhRmtnrO3VjZwepQ3fSnHYc2LdknNQ",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJndfFbWWTyzsRmN0qNhl19Go",
+      "plus_code": {
+        "compound_code": "C8HG+J4 Hyderabad, Telangana, India",
+        "global_code": "7J9WC8HG+J4"
+      },
+      "rating": 3,
+      "reference": "ChIJndfFbWWTyzsRmN0qNhl19Go",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "bank",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "Beside SBI Bank, Nanakramguda, Rangareddy, Hyderabad"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 17.4296558,
+          "lng": 78.3412488
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.4311209302915,
+            "lng": 78.34267118029152
+          },
+          "southwest": {
+            "lat": 17.4284229697085,
+            "lng": 78.3399732197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "id": "0de94e7415ae6b4cffdd2c68becb8685bc616201",
+      "name": "ICICI Bank ATM",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107057132831745049177\">Kratu Beri</a>"
+          ],
+          "photo_reference": "CmRaAAAA-_gVgxi87YYd8Xoj3x-cP9fye6ShVi8gH9J7iFR05kspeG-ED90A0OVxZLB4V8DJTYWsDrAvqm0kauCdtxGAYAGxGxmbi1s_ksH4VIvT5iSPLK4bh64FRy-ZqHN92rGxEhA4gwqQQSJoNDdN8PJfYfqvGhTfaoy0wi5mryO2aZ5D88sUv9qbWQ",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJlTKl4IKTyzsRcsTtECtr32E",
+      "plus_code": {
+        "compound_code": "C8HR+VF Hyderabad, Telangana, India",
+        "global_code": "7J9WC8HR+VF"
+      },
+      "rating": 3.3,
+      "reference": "ChIJlTKl4IKTyzsRcsTtECtr32E",
+      "scope": "GOOGLE",
+      "types": [
+        "bank",
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "3, Gachibowli, Hyderabad"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 17.4298207,
+          "lng": 78.34113599999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.4312491802915,
+            "lng": 78.3425351802915
+          },
+          "southwest": {
+            "lat": 17.4285512197085,
+            "lng": 78.3398372197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+      "id": "ceeed9cc03183ee48a64b07b538a505278b51bb9",
+      "name": "ICICI Bank Microsoft, Hyderabad - Branch & ATM",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114745211635717617416\">Gokul Velu</a>"
+          ],
+          "photo_reference": "CmRaAAAAajVbyzurGlg1ga1ke3-25YBAQ6Yiz1es8Jyf6whyNQrPrvvYcNE_-Y2DlmOSZ9eESr0Ct4h182petxAwar8UFD3AFJGEophhdnJJHno6xD7duC8poDBHyJDZZIKex0eaEhBVA3xA1-DHPvPwWNvXDpyaGhRsuW7Y7ZH4JO9oyaRfUnm-ktRQgA",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJ4fNTN4OTyzsRPkgvjQRuu2M",
+      "plus_code": {
+        "compound_code": "C8HR+WF Hyderabad, Telangana, India",
+        "global_code": "7J9WC8HR+WF"
+      },
+      "rating": 4,
+      "reference": "ChIJ4fNTN4OTyzsRPkgvjQRuu2M",
+      "scope": "GOOGLE",
+      "types": [
+        "bank",
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 25,
+      "vicinity": "Microsoft Campus Building 3, Building 2, Hyderabad"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 17.41737,
+          "lng": 78.346115
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.4185919302915,
+            "lng": 78.3473794302915
+          },
+          "southwest": {
+            "lat": 17.4158939697085,
+            "lng": 78.34468146970849
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+      "id": "3ac52994dc7d9e4d72aa26e9f72c0d80830bc698",
+      "name": "Axis Bank ATM",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103363375782495550694\">Pavan Kumar</a>"
+          ],
+          "photo_reference": "CmRaAAAAG0mJ0HJAlcfhKa0o6ufpqB17Q2ITNVDpM30hrcX2kOsS3ssWL8gHBYVk2bPirPeKPU98sm6ppHi1g177IG2HW7jdarinca-4hPtbQs8VHwbpfifhE_y1SGCdiWmpE4aaEhC5LJWySnyC56-vevJi45VGGhTRnDL2ng_SUc4n5OS5kphtLOIk1w",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJ5zbC73iUyzsRMKFtLzoUhaY",
+      "plus_code": {
+        "compound_code": "C88W+WC Nanakramguda, Hyderabad, Telangana, India",
+        "global_code": "7J9WC88W+WC"
+      },
+      "rating": 1.8,
+      "reference": "ChIJ5zbC73iUyzsRMKFtLzoUhaY",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "18-23, Road Number 2, Financial District, Nanakramguda, Hyderabad"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 17.4173549,
+          "lng": 78.3461193
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.4185812802915,
+            "lng": 78.3473866802915
+          },
+          "southwest": {
+            "lat": 17.4158833197085,
+            "lng": 78.3446887197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+      "id": "4afb9bef477895f46c0f91fab8f390fb359acb2f",
+      "name": "State Bank Of India ATM",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103363375782495550694\">Pavan Kumar</a>"
+          ],
+          "photo_reference": "CmRaAAAAf_tEtQh-qI-T-EdKK5e3axfx-zicjqz_wbv1hCyIdB3A0qw2enYyGcqee2icAKH1GsB_d4pm98-Y-3IVu9Um-m2FP2LLEKEIzbw0AOShj0sVDDqAapOrv_HdraNV9_iJEhDDDT0eWuqwOIso7GMKs0MtGhQ-8O_3i1nFlnqCxYavIErv55k7Yg",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJa_PZ73iUyzsRs4e9EeGzsZM",
+      "plus_code": {
+        "compound_code": "C88W+WC Hyderabad, Telangana, India",
+        "global_code": "7J9WC88W+WC"
+      },
+      "rating": 3.7,
+      "reference": "ChIJa_PZ73iUyzsRs4e9EeGzsZM",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 11,
+      "vicinity": "18-23, Road Number 2, Financial District, Nanakramguda, Hyderabad"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 17.431179,
+          "lng": 78.34262
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.4324459802915,
+            "lng": 78.3439560802915
+          },
+          "southwest": {
+            "lat": 17.4297480197085,
+            "lng": 78.3412581197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+      "id": "3bb32b40da6970a4fb6f0327c3f37377e61c39d3",
+      "name": "ICICI BANK ATM",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116216113111867229350\">ICICI BANK ATM</a>"
+          ],
+          "photo_reference": "CmRaAAAAh-cS1sreeeTvtcZQjCRDi2Y5JSNy8lzWK_3ob2Kz3saVZJ-BD_d1TePXoA-6MiZbTimiYdoANBneXFjRRdjcqWBiE1PIeK_6V2APcX4WijGJooDi6Fxc2xYAH-d4IQZiEhBPJuA8c62nl1NO2jwSWo06GhTZNRAnc6XxowzsTJQ1GHtr7Dt0iA",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJH3ynNIOTyzsRqiwau8URs0Q",
+      "plus_code": {
+        "compound_code": "C8JV+F2 Gachibowli, Hyderabad, Telangana, India",
+        "global_code": "7J9WC8JV+F2"
+      },
+      "rating": 1.7,
+      "reference": "ChIJH3ynNIOTyzsRqiwau8URs0Q",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "bank",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "Microsoft Campus Building 3, Gachibowli, Hyderabad"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 17.4225374,
+          "lng": 78.3475507
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.4239426802915,
+            "lng": 78.3490046802915
+          },
+          "southwest": {
+            "lat": 17.4212447197085,
+            "lng": 78.3463067197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+      "id": "77065c7aef572e6e8d9e5d348f1ddaee3cd5ef7a",
+      "name": "SBI E-Corner",
+      "photos": [
+        {
+          "height": 3480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115323275164919130806\">rajnish singh</a>"
+          ],
+          "photo_reference": "CmRaAAAA0_wCix-Yxpvisq2z0-K_GNBjUrl0ARkFfLicMsWBSTT7vEs1dqDsafnDdFXUa1WrBZIwmqIzcz2x0Dq4MC577mons8gQPo8UQJl1f3VyfLU6VaU0UqchtezIJvMZaBDlEhDKuUX_y0uVJyv4diYIGsLwGhTmykpZ8Bod2nhEcwOCfU5ZyDwHMA",
+          "width": 4640
+        }
+      ],
+      "place_id": "ChIJBW6Sq4eTyzsRED-13663DEg",
+      "plus_code": {
+        "compound_code": "C8FX+22 Hyderabad, Telangana, India",
+        "global_code": "7J9WC8FX+22"
+      },
+      "rating": 3,
+      "reference": "ChIJBW6Sq4eTyzsRED-13663DEg",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "Nanakram Guda, Hyderabad"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 17.4181016,
+          "lng": 78.34734809999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.4193982302915,
+            "lng": 78.3487489302915
+          },
+          "southwest": {
+            "lat": 17.4167002697085,
+            "lng": 78.3460509697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+      "id": "4fea4a44abd4b09807cc7c052a4b4244d8ff4cd0",
+      "name": "Indusind Bank ATM",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJ0-k5X3iUyzsR_qrs2CFVpoI",
+      "plus_code": {
+        "compound_code": "C89W+6W Hyderabad, Telangana, India",
+        "global_code": "7J9WC89W+6W"
+      },
+      "rating": 4.5,
+      "reference": "ChIJ0-k5X3iUyzsR_qrs2CFVpoI",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "Road Number 2, Financial District, Nanakramguda, Hyderabad"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 17.431797,
+          "lng": 78.342973
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.4332994802915,
+            "lng": 78.34435363029151
+          },
+          "southwest": {
+            "lat": 17.4306015197085,
+            "lng": 78.3416556697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+      "id": "e0ac32f3de66d3b03db04a1c8e42017e1ef0a4ea",
+      "name": "ICICI BANK ATM",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102476070162152410255\">ICICI BANK ATM</a>"
+          ],
+          "photo_reference": "CmRaAAAAs3j16qTdplPr-U65L-uB73ccFwp7YvcKageeeYtPEwdsioqtTyPzWegL-oCe3N-0o1GtvBA-R1TZaCc8Pnr9T-EJE6rg_lZghiizrF1eoyqf3v9IE0n1KvXlKY_zKWVFEhBqasyZ7z6Ct_FjG8iBkhGJGhRFgjoqqv-ty5sXykWJHykrhs02XA",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJpWbVyZyTyzsRLzo9r9Sgync",
+      "plus_code": {
+        "compound_code": "C8JV+P5 Hyderabad, Telangana, India",
+        "global_code": "7J9WC8JV+P5"
+      },
+      "rating": 2,
+      "reference": "ChIJpWbVyZyTyzsRLzo9r9Sgync",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "bank",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "Microsoft R & D Pvt. LTD, Building No. 2, Gachibowli, Hyderabad"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 17.4318,
+          "lng": 78.343
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.4333009802915,
+            "lng": 78.3443671302915
+          },
+          "southwest": {
+            "lat": 17.43060301970849,
+            "lng": 78.3416691697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+      "id": "e59da8bfbcb1665a7214cd8b25354a99c98e6517",
+      "name": "ICICI BANK ATM",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102213377857058057067\">ICICI BANK ATM</a>"
+          ],
+          "photo_reference": "CmRaAAAAKjK2ddUAeV5jhdgAht1MeCp9oVCX-TmpXv5ipz1zr1LNy6a7objdpBG37oVcduubxB8_1o-kkHtBS7BqQIWElPtwk4rZZHfKM26_ayi4-dAsECxJLe8hHAzRa5TWiIM8EhAlmzyud4eN2FpQkfW81LiqGhRW1r7DeUQOFoAsoavutek-GtU0Cw",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJZ70stpyTyzsR1YefNN4XciQ",
+      "plus_code": {
+        "compound_code": "C8JV+P6 Hyderabad, Telangana, India",
+        "global_code": "7J9WC8JV+P6"
+      },
+      "reference": "ChIJZ70stpyTyzsR1YefNN4XciQ",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "bank",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Microsoft R & D Pvt. LTD, Building No. 3, Gachibowli, Hyderabad"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 17.4318,
+          "lng": 78.343
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 17.4333009802915,
+            "lng": 78.3443671302915
+          },
+          "southwest": {
+            "lat": 17.43060301970849,
+            "lng": 78.3416691697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+      "id": "e45ef6893a32ea1b6b45acbc2ada189d0689e4f6",
+      "name": "ICICI BANK ATM",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101527859605868682610\">ICICI BANK ATM</a>"
+          ],
+          "photo_reference": "CmRaAAAAugWNi9XlnP_VR4WNLU8QbqeWdVBaoWzIa1NGTAIVTbbNQiM5DW5HczLVt_U5tUQiH_0HMCpa28jTsJ0tqRo0UZJ_dy3_WneTFOhJCYIOmPcEeV70gipYFeaIoYc4lzaLEhCgEcQ-oqK8rKBh1BkLjjjGGhQBQJAk0VuguFSibnHM04RjWhAulA",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJ7aZVZASPyzsRoogY_Yoe0G4",
+      "plus_code": {
+        "compound_code": "C8JV+P6 Hyderabad, Telangana, India",
+        "global_code": "7J9WC8JV+P6"
+      },
+      "rating": 5,
+      "reference": "ChIJ7aZVZASPyzsRoogY_Yoe0G4",
+      "scope": "GOOGLE",
+      "types": [
+        "atm",
+        "bank",
+        "finance",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "Deloite, L & T Phoenix, Info Park Pvt LTD, Survey No. 27/1, 27/2, 27/3, 27/4, Nanakramguda Village, Seri Lingampally Municipality, Hyderabad"
+    }
+  ]
+}
